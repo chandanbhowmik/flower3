@@ -1,3 +1,25 @@
+.navbar{
+    display: flex;
+    background-color: rgba(254, 236, 236, 0.888);;
+    align-items: center;   
+   
+}
+.option:hover{
+        cursor:pointer;
+}
+.logo1{
+    margin-left: 50px;
+}
+.logo1:hover{
+    cursor:pointer;
+}
+
+.option{
+    display: flex;
+    gap: 30px;
+    margin-left: 600px;
+    
+}
 .main-header{
     display: flex;
     background-color:rgba(254, 236, 236, 0.888);
@@ -109,4 +131,5 @@ span{
     margin-top: -40px;
         
 }
+
 
