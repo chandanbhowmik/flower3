@@ -64,6 +64,20 @@ span{
     background-image: url("Rectangle\ 9.png");
     background-size: auto;
 }
+.background-img, h2{
+    text-align: center;
+}
+
+.input{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    margin-left: 200px;
+}
+.input2{
+    background-color: #E55473;
+   
+}
 .footer{
     margin: -50px;
     background-color: black;
