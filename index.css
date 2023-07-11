@@ -102,3 +102,11 @@ span{
     color: rgb(126, 122, 122);
     font-size: 8px;
 }
+.flower-title, underline{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    margin-top: -40px;
+        
+}
+
